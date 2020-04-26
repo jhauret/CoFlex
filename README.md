@@ -8,8 +8,10 @@ The code in under construction.
 
 **The code is under construction
 
-See here classes definitions: 
+See here classes definitions and variables.
 
+
+![classes_definition](/img/uml.png)
 ![variables_definition](/img/variables.png)
 
 ## References
