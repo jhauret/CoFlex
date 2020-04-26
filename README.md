@@ -1,7 +1,9 @@
 # CoFlex
 
 The code in under construction.
+
 ./data/ consists in all the csv and json files for current data.
+
 ./src/ consists in the solver and future code.
 
 **The code is under construction
