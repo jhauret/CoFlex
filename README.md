@@ -1,15 +1,6 @@
 # CoFlex
-The CoFlex repository
 
-
-
-The problem your project solves
-The solution you bring to the table
-What you have done during the weekend
-The solution’s impact to the crisis
-The necessities in order to continue the project
-The value of your solution(s) after the crisis
-The URL to the prototype [Github, Website,...]
+![variables_definition](/img/variables.png)
 
 Inspiration :
 
