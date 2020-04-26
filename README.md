@@ -1,6 +1,7 @@
 # CoFlex
 The CoFlex repository
 
+![variables](/img/variables.png)
 
 The problem your project solves
 The solution you bring to the table
